@@ -1,8 +1,8 @@
 #!/bin/bash
 function nombres() {
-	for PUTITO in  $@
+	for BRAULIO in  $@
 	do
-	echo "$PUTITO"		
+	echo "$BRAULIO"		
 	done
 }
-nombres hombre oso chancho prrrroo gato oveja
+nombres hombre oso chancho perro gato oveja
